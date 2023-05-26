@@ -1,0 +1,12 @@
+.titulo{
+    color: purple;
+    text-align: center;
+}
+.imagem{
+    width: 200px !important;
+    height: 160px !important;
+}
+.todasimagens{
+    display:grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
